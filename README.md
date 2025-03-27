@@ -8,7 +8,6 @@ Mine solutions for CS50's Web Programming with Python and JavaScript course.
 
 ## Course info:
 * __Name:__ CS50's Web Programming with Python and JavaScript 
-* __University:__ Harvard University
-* __WWW:__ https://cs50.harvard.edu/web/2020
+
 
 
